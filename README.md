@@ -7,15 +7,17 @@ Open **face_vae.ipynb** in a Google colab notebook and run cells one-by-one.
 
 
 # Results
-## Plian VAE reconstruction
-[logo]: https://github.com/iamsoroush/face_vae/blob/master/download.png
+## Plian VAE: reconstruction
+![alt text](https://github.com/iamsoroush/face_vae/blob/master/download.png)
 
-## DFC-VAE with loss defined on early layers of pre-trained VGG19
+
+## DFC-VAE with loss defined on early layers of pre-trained VGG19: reconstruction
 ...
 
-## DFC-VAE with loss defined on intermediate layers of pre-trained VGG19
+
+## DFC-VAE with loss defined on intermediate layers of pre-trained VGG19: reconstruction
 ...
+
 
 ## Facial Attribute Manipulation: Adding *Smile* to faces
 ...
-
