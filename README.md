@@ -3,6 +3,19 @@ Implementation of Variational Auto-Encoder (VAE) and Deep Feature Consistent VAE
 
 Source paper: [Deep Feature Consistent Variational Autoencoder](https://arxiv.org/abs/1610.00291)
 
-# Results
+Open **face_vae.ipynb** in a Google colab notebook and run cells one-by-one.
 
+
+# Results
+## Plian VAE reconstruction
+...
+
+## DFC-VAE with loss defined on early layers of pre-trained VGG19
+...
+
+## DFC-VAE with loss defined on intermediate layers of pre-trained VGG19
+...
+
+## Facial Attribute Manipulation: Adding *Smile* to faces
+...
 
