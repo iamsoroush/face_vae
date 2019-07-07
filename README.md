@@ -20,4 +20,7 @@ Open **face_vae.ipynb** in a Google colab notebook and run cells one-by-one.
 
 
 ## Facial Attribute Manipulation: Adding *Smile* to faces
-...
+![alt text]
+
+## Facial Attribute Manipulation: Removing *Smile* from faces
+![alt text]
