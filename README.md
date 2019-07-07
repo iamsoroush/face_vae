@@ -23,4 +23,4 @@ Try it yourself: open **face_vae.ipynb** in a Google colab notebook and run cell
 ![alt text](https://github.com/iamsoroush/face_vae/blob/master/download%20(3).png)
 
 ## Facial Attribute Manipulation: Removing *Smile* from faces
-![alt text]
+![alt text](https://github.com/iamsoroush/face_vae/blob/master/download%20(4).png)
