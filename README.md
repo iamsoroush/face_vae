@@ -12,7 +12,7 @@ Open **face_vae.ipynb** in a Google colab notebook and run cells one-by-one.
 
 
 ## DFC-VAE with loss defined on early layers of pre-trained VGG19: reconstruction
-...
+![alt text](https://github.com/iamsoroush/face_vae/blob/master/download%20(2).png)
 
 
 ## DFC-VAE with loss defined on intermediate layers of pre-trained VGG19: reconstruction
