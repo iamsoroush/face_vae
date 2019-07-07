@@ -3,7 +3,7 @@ Implementation of Variational Auto-Encoder (VAE) and Deep Feature Consistent VAE
 
 Source paper: [Deep Feature Consistent Variational Autoencoder](https://arxiv.org/abs/1610.00291)
 
-Open **face_vae.ipynb** in a Google colab notebook and run cells one-by-one.
+Try it yourself: open **face_vae.ipynb** in a Google colab notebook and run cells one-by-one.
 
 
 # Results
