@@ -8,7 +8,7 @@ Open **face_vae.ipynb** in a Google colab notebook and run cells one-by-one.
 
 # Results
 ## Plian VAE reconstruction
-...
+[logo]: https://github.com/iamsoroush/face_vae/blob/master/download.png
 
 ## DFC-VAE with loss defined on early layers of pre-trained VGG19
 ...
